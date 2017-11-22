@@ -1,0 +1,1 @@
+# SemaphoreCI Go Client
